@@ -2,10 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Browski</title>
-    <link>http://localhost:1313/anatomy/</link>
+    <link>https://page.browski.top/anatomy/</link>
     <description>Recent content on Browski</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 May 2024 16:32:52 +0000</lastBuildDate>
+    <atom:link href="https://page.browski.top/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Back Muscules</title>
+      <link>https://page.browski.top/anatomy/back-muscules/</link>
+      <pubDate>Thu, 23 May 2024 16:32:52 +0000</pubDate>
+      <guid>https://page.browski.top/anatomy/back-muscules/</guid>
+      <description>Поділяють на поверхневі та глибокі</description>
+    </item>
   </channel>
 </rss>
