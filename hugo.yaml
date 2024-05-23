@@ -3,3 +3,26 @@ languageCode: en-us
 title: Browski
 theme: "PaperMod"
 paginate: 5
+
+menu:
+  main:
+    - identifier: posts
+      name: posts
+      url: /posts/
+      weight: 10
+    - identifier: anatomy
+      name: anatomy
+      url: /anatomy/
+      weight: 20
+    - identifier: example
+      name: example.org
+      url: https://example.org
+      weight: 30
+
+params:
+  defaultTheme: light
+
+  profileMode:
+    enabled: true
+    title: "Welcome" # optional default will be site title
+
