@@ -3,10 +3,3 @@ languageCode: en-us
 title: Browski
 theme: "PaperMod"
 paginate: 5
-
-enableRobotsTXT: false
-buildDrafts: false
-buildFuture: false
-buildExpired: false
-
-sectionPagesMenu: main
