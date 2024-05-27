@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Browski</title>
-    <link>http://localhost:1313/anatomy/</link>
-    <description>Recent content on Browski</description>
+    <title>Anatomies on Browski</title>
+    <link>https://page.browski.top/anatomy/</link>
+    <description>Recent content in Anatomies on Browski</description>
     <generator>Hugo -- 0.126.1</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 May 2024 16:32:52 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/anatomy/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://page.browski.top/anatomy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>М&#39;язи грудей</title>
-      <link>http://localhost:1313/anatomy/chest-muscles/</link>
+      <link>https://page.browski.top/anatomy/chest-muscles/</link>
       <pubDate>Thu, 23 May 2024 16:32:52 +0000</pubDate>
-      <guid>http://localhost:1313/anatomy/chest-muscles/</guid>
+      <guid>https://page.browski.top/anatomy/chest-muscles/</guid>
       <description>У ділянці грудної клітки розділяють глибокі (власне м&amp;rsquo;язи грудної клітки) і поверхневі м&amp;rsquo;язи.
 Глибокі зовнішні та внутрішні міжреберні, поперечний м&amp;rsquo;яз грудної клітки, діафрагма
-Зовнішні міжреберні м&amp;rsquo;язи (mm. intercostales externi) Виповнюють міжреберні проміжки. Йдуть згори вниз,</description>
+Зовнішні міжреберні м&amp;rsquo;язи (mm. intercostales externi) Виповнюють міжреберні проміжки. Волокна йдуть згори вниз. При скороченні підіймають ребра, сприяють вдихові
+Внутрішні міжреберні м&amp;rsquo;язи (mm. intercostales interni) Опускають ребра і звужують грудну клітку.
+Поперечний м&amp;rsquo;яз грудної клітини (m. transversus thoracis) Лежить на задній поверхні грудної стінки. При скороченні зменшує об&amp;rsquo;єм грудної клітки.</description>
     </item>
   </channel>
 </rss>
