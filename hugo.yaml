@@ -26,3 +26,8 @@ params:
     enabled: true
     title: " " # optional default will be site title
   hideFooter: true
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
