@@ -14,10 +14,6 @@ menu:
       name: anatomy
       url: /anatomy/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 
 params:
   defaultTheme: light
@@ -30,4 +26,4 @@ params:
 markup:
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: true # to make underline md work
